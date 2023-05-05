@@ -1,0 +1,19 @@
+.margin-left-100 {
+  margin-left: 100px;
+}
+.width-height-25px{
+  width: 25px!important;
+  height: 25px!important;
+}
+.w-70px{
+  width: 70px!important;
+}
+
+.notification{
+  right: 10%;
+  position: relative;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  font-size: 12px;
+}

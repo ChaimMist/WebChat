@@ -1,0 +1,22 @@
+.contact-box:hover{
+    /*box-shadow: 0 10px 4rem rgba(0,0,0,.175)!important;*/
+    background-color: #f5f5f5;
+    border-radius: 20px;
+    border-color: #f2ffe9;
+}
+.contact-box{
+    cursor: pointer;
+    border-radius: 20px;
+    border-color: #f2ffe9;
+}
+
+.contact-box:active{
+    background-color: #e2e2e2;
+}
+.contact-subtext{
+    font-size: 0.8rem;
+    color: #a6a6a6;
+    margin-top: -1.3rem;
+    align-self: start;
+    
+}
